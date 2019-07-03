@@ -1,8 +1,12 @@
 # sibisastrawi_python
 stemming algorithm for SIBI in python
 
-#credit:
+
+
+# credit:
 Pysastrawi
+
+
 
 # difference
 ## pysastrawi
